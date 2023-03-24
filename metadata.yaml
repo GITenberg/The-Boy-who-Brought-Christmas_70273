@@ -1,5 +1,8 @@
 _repo: The-Boy-who-Brought-Christmas_70273
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70273-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Jackson, John
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '55677'
     url: http://www.gutenberg.org/2009/agents/55677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70273#The-Boy-who-Brought-Christmas
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70273'
